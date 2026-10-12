@@ -1,6 +1,6 @@
 Name:		python-mt-940
 Version:	4.30.0
-Release:	1
+Release:	2
 Summary:	A library to parse MT940 files and returns smart Python collections for
 License:	BSD-3-Clause
 Group:		Development/Python
